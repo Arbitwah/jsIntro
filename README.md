@@ -1,0 +1,2 @@
+# jsIntro
+This repository was created for the Intro to JS assignment on Canvas. In this assignment we were to create a repo , predict outputs of some Javascript, , create a program that assigns to a variable a temperature in Celsius and outputs to Fahrenheit, a program that assigns a number to a variable and outputs a multiplication table, and a FizzBuzz  prograsm that outputs Fizz when a number is divisible by 3 and Buzz if the number is divisible by 5 and not by 3, and FuzzBuzz if its divisible by both.   
