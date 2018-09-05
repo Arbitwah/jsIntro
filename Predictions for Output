@@ -1,0 +1,37 @@
+let a = 2;
+
+a -= 1;
+
+a++;
+
+let b = 8;
+
+b += 2;
+
+const c = a + b * b;
+
+const d = a * b + b;
+
+const e = a * (b + b);
+
+const f = a * b / a;
+
+const g = b / a * a;
+
+console.log(a, b, c, d, e, f, g);
+
+a will = 2      the reason is because line 5 sets a back to being 2
+
+b will = 10     the reason is becaue line 9 adds two to b
+
+c will = 102    multiplication happens first then the addition
+
+d will = 30     multiplication happens first then addition
+
+e will = 40     Parentheses happens before the multiplication
+
+f will = 10     multiplication happens first then division
+
+g will = 10     division happens first the multiplication
+
+outputs c - g following the rules of operations this is what the outputs should be. 
